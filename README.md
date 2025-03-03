@@ -1,4 +1,4 @@
-# Hi there, I'm Bez Dailey 👋
+# Hi there, I'm Jabez Dailey 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer who loves crafting innovative solutions and exploring emerging technologies. My journey in tech is fueled by curiosity, and continuous learning.
 
