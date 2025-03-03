@@ -1,22 +1,20 @@
 # Hi there, I'm Bez Dailey 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer who loves crafting innovative solutions and exploring emerging technologies. My journey in tech is fueled by curiosity, continuous learning, and a commitment to open source.
+Welcome to my GitHub profile! I'm a passionate software developer who loves crafting innovative solutions and exploring emerging technologies. My journey in tech is fueled by curiosity, and continuous learning.
 
 ## 🔭 Current Projects
 - **Innovative Web Applications:** Developing scalable and efficient apps using the latest technologies.
-- **Open Source Contributions:** Actively contributing to projects that empower communities.
-- **AI & Machine Learning:** Experimenting with AI-driven solutions to tackle real-world challenges.
+- **AI & Machine Learning:** Experimenting with AI-driven solutions.
 
 ## 🌱 Learning & Growth
-- **Advanced JavaScript Frameworks:** Deepening my expertise in Next.js and Nuxt.js.
-- **Cloud Computing:** Expanding my knowledge of AWS and Azure to build resilient architectures.
-- **DevOps & CI/CD:** Embracing best practices for continuous integration and streamlined deployment.
+- **Web Development Fundamentals:** Refining my skills in JavaScript and Python to build robust web applications.
+- **AI & Machine Learning Exploration:** Deepening my understanding of AI concepts and integrating smarter features into projects.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, Java
 - **Frameworks & Libraries:** React, Vue.js, Node.js
 - **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools:** Git, Docker, Jenkins, VS Code
+- **Tools:** Git, Docker, Vim
 
 ## 📫 Connect with Me
 - **Email:** [jabezdailey@icloud.com](mailto:jabezdailey@icloud.com)
