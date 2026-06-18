@@ -1,33 +1,37 @@
-# Hi there, I'm Jabez Dailey 👋
+# Hi, I'm Jabez Dailey 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer who loves crafting innovative solutions and exploring emerging technologies. My journey in tech is fueled by curiosity, and continuous learning.
+Software Engineer at Deloitte building backend services, REST APIs, and full-stack applications. I work primarily in Python, JavaScript/TypeScript, and SQL, with a focus on reliable systems, clean data modeling, and code that holds up in production.
 
-## 🔭 Current Projects
-- **Innovative Web Applications:** Developing scalable and efficient apps using the latest technologies.
-- **AI & Machine Learning:** Experimenting with AI-driven solutions.
+Starting my M.S. in Computer Science (Machine Learning concentration) at Georgia Tech in Fall 2026.
 
-## 🌱 Learning & Growth
-- **Web Development Fundamentals:** Refining my skills in JavaScript and Python to build robust web applications.
-- **AI & Machine Learning Exploration:** Deepening my understanding of AI concepts and integrating smarter features into projects.
+---
 
-## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java
-- **Frameworks & Libraries:** React, Vue.js, Node.js
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools:** Git, Docker, Vim
+### 🛠️ Tech I work with
 
-## 📫 Connect with Me
-- **Email:** [jabezdailey@icloud.com](mailto:jabezdailey@icloud.com)
-- **LinkedIn:** [Bez Dailey](https://www.linkedin.com/in/jabez-dailey/)
-- **GitHub:** [BezDailey](https://github.com/BezDailey)
-- **Website:** [jabezdailey.com](https://www.jabezdailey.com)
+**Languages:** Python · JavaScript · TypeScript · Java · SQL
+**Backend:** Node.js · Express · Flask · REST APIs · PostgreSQL
+**Frontend:** React
+**Data & Infra:** Databricks · PySpark · Docker · Git · CI/CD
 
+---
 
-## ⚡ Fun Facts & Interests
-- I enjoy experimenting with new coding languages and frameworks during my free time.
-- Sharing my learnings through blog posts is a passion of mine.
+### 🔭 What I'm building
 
-## 📈 GitHub Stats
-[![BezDailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=BezDailey&show_icons=true&theme=radical)](https://github.com/BezDailey)
+- **Second Brain** — a RAG-powered knowledge system (FastAPI, LlamaIndex, ChromaDB, React)
+- **Debt Tracker** — a personal finance app with a REST API and JSON persistence (Node.js, Express)
+- **Personal Site** — my portfolio and project showcase ([jabezdailey.com](https://jabezdailey.com))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BezDailey&layout=compact&theme=radical)](https://github.com/BezDailey)
+Currently sharpening data structures and algorithms through NeetCode 150.
+
+---
+
+### 📫 Reach me
+
+[Website](https://jabezdailey.com) · [LinkedIn](https://www.linkedin.com/in/jabez-dailey) · jabezdailey@icloud.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BezDailey&show_icons=true&hide_border=true" alt="Jabez's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BezDailey&layout=compact&hide_border=true" alt="Top languages" height="160" />
+</p>
