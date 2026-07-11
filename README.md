@@ -18,7 +18,7 @@ Starting my M.S. in Computer Science (Machine Learning concentration) at Georgia
 ### 🔭 What I'm building
 
 - **Second Brain** — a RAG-powered knowledge system over my Obsidian vault (FastAPI, LlamaIndex, ChromaDB, React)
-- **Debt Tracker** — a full-stack personal finance app for tracking balances, interest rates, and payoff progress. Implements snowball vs. avalanche payoff modeling with projected interest savings and payoff-date forecasting, exposed through a documented REST API with JSON persistence. Node.js · Express · React · Vite
+- **Debt Tracker** — a full-stack personal finance app that models debt payoff strategies (snowball & avalanche), projects interest, and forecasts payoff dates across accounts. Exposes both a REST API and a CLI, backed by a type-safe Prisma + SQLite relational data layer with amortization logic built from scratch. Node.js · Express · React · Vite · Prisma · SQLite
 - **Personal Site** — [jabezdailey.com](https://jabezdailey.com)
 
 ---
