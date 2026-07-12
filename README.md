@@ -25,7 +25,7 @@ Starting my M.S. in Computer Science (Machine Learning concentration) at Georgia
 
 ### 📫 Reach me
 
-[Website](https://www.jabezdailey.com) · [LinkedIn](https://www.linkedin.com/in/jabez-dailey) · jabezdailey@icloud.com
+[Website](http://www.jabezdailey.com) · [LinkedIn](https://www.linkedin.com/in/jabez-dailey) · jabezdailey@icloud.com
 
 ---
 
