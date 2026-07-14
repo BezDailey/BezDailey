@@ -1,6 +1,6 @@
 # Hi, I'm Jabez Dailey 👋
 
-Software Engineer at Deloitte building full-stack applications and data pipelines. I work primarily in TypeScript and Python, with a focus on clean data modeling, reliable systems, and code that holds up in production.
+Software Engineer at Deloitte building full-stack applications and data pipelines. I work primarily in TypeScript, JavaScript, and Python, with a focus on clean data modeling, reliable systems, and code that holds up in production.
 
 Starting my M.S. in Computer Science (Machine Learning concentration) at Georgia Tech in Fall 2026.
 
@@ -25,7 +25,7 @@ Starting my M.S. in Computer Science (Machine Learning concentration) at Georgia
 
 ### 📫 Reach me
 
-[Website](http://www.jabezdailey.com) · [LinkedIn](https://www.linkedin.com/in/jabez-dailey) · jabezdailey@icloud.com
+[Website](http://www.jabezdailey.com) · [LinkedIn](https://www.linkedin.com/in/jabez-dailey) 
 
 ---
 
